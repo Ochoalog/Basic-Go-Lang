@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	//sempre usamos o for
 	fmt.Println("For loop")
 	i := 0
 
